@@ -1,0 +1,3 @@
+C:\Users\maxu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Test_Demo2.dir/objects.a
+"D:\SoftWare Test\Clion\mingw64\bin\ar.exe" cr CMakeFiles\Test_Demo2.dir/objects.a @CMakeFiles\Test_Demo2.dir\objects1.rsp
+"D:\SoftWare Test\Clion\mingw64\bin\gcc.exe"    -Wl,--whole-archive CMakeFiles\Test_Demo2.dir/objects.a -Wl,--no-whole-archive  -o Test_Demo2.exe -Wl,--out-implib,libTest_Demo2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Test_Demo2.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:\Users\maxu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\C_Zsh_dev.dir/objects.a
+"D:\SoftWare Test\Clion\mingw64\bin\ar.exe" cr CMakeFiles\C_Zsh_dev.dir/objects.a @CMakeFiles\C_Zsh_dev.dir\objects1.rsp
+"D:\SoftWare Test\Clion\mingw64\bin\gcc.exe" -g   -Wl,--whole-archive CMakeFiles\C_Zsh_dev.dir/objects.a -Wl,--no-whole-archive  -o C_Zsh_dev.exe -Wl,--out-implib,libC_Zsh_dev.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C_Zsh_dev.dir\linklibs.rsp

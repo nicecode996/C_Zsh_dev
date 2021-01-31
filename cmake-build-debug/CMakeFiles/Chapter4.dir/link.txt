@@ -1,0 +1,3 @@
+C:\Users\maxu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Chapter4.dir/objects.a
+"D:\SoftWare Test\Clion\mingw64\bin\ar.exe" cr CMakeFiles\Chapter4.dir/objects.a @CMakeFiles\Chapter4.dir\objects1.rsp
+"D:\SoftWare Test\Clion\mingw64\bin\gcc.exe" -g   -Wl,--whole-archive CMakeFiles\Chapter4.dir/objects.a -Wl,--no-whole-archive  -o Chapter4.exe -Wl,--out-implib,libChapter4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Chapter4.dir\linklibs.rsp

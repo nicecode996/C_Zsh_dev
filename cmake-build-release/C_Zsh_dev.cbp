@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_Zsh_dev"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day5">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day5"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day5/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day5/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_Zsh_dev">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/C_Zsh_dev.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 C_Zsh_dev"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_Zsh_dev/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/C_Zsh_dev.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 C_Zsh_dev/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day6">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day6"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day6/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day6/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter1">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Chapter1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Chapter1"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter1/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Chapter1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Chapter1/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day1">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day1"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day1/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day1/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day2">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day2"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day2/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day2/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day3">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day3"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day3/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day3/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day4">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day4"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day4/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day4/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day7">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day7"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Zsb_Day7/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Zsb_Day7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Zsb_Day7/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo2">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo2"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo2/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo2/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo3">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo3"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo3/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo3/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo4">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo4"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo4/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo4/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo5">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo5"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo5/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo5/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo6">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo6"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo6/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo6/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo7">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo7"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test_Demo7/fast">
+				<Option output="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Test_Demo7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/SoftWare Test/Clion/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 Test_Demo7/fast"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/SoftWare Test/Clion/mingw64/bin/mingw32-make.exe -f &quot;D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Chapter1/main1.c">
+			<Option target="Chapter1"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Test_Demo/Day1.c">
+			<Option target="Test_Demo"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Test_Demo2/Day2.c">
+			<Option target="Test_Demo2"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Test_Demo3/Day3.c">
+			<Option target="Test_Demo3"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Test_Demo4/Day4.c">
+			<Option target="Test_Demo4"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Test_Demo5/Day5.c">
+			<Option target="Test_Demo5"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Test_Demo6/Day6.c">
+			<Option target="Test_Demo6"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Test_Demo7/Day7.c">
+			<Option target="Test_Demo7"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Zsb_Day1/Zsb_Day1.c">
+			<Option target="Zsb_Day1"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Zsb_Day2/Zsb_Day2.c">
+			<Option target="Zsb_Day2"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Zsb_Day3/Zsb_Day3.c">
+			<Option target="Zsb_Day3"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Zsb_Day4/Zsb_Day4.c">
+			<Option target="Zsb_Day4"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Zsb_Day5/Zsb_Day5.c">
+			<Option target="Zsb_Day5"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Zsb_Day6/Zsb_Day6.c">
+			<Option target="Zsb_Day6"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/Zsb_Day7/Zsb_Day7.c">
+			<Option target="Zsb_Day7"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/main.c">
+			<Option target="C_Zsh_dev"/>
+		</Unit>
+		<Unit filename="D:/SoftWare Test/Clion/C_Zsh_dev/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

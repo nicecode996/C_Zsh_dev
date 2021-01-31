@@ -1,0 +1,3 @@
+C:\Users\maxu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Zsb_Day3.dir/objects.a
+"D:\SoftWare Test\Clion\mingw64\bin\ar.exe" cr CMakeFiles\Zsb_Day3.dir/objects.a @CMakeFiles\Zsb_Day3.dir\objects1.rsp
+"D:\SoftWare Test\Clion\mingw64\bin\gcc.exe" -g   -Wl,--whole-archive CMakeFiles\Zsb_Day3.dir/objects.a -Wl,--no-whole-archive  -o Zsb_Day3.exe -Wl,--out-implib,libZsb_Day3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Zsb_Day3.dir\linklibs.rsp
