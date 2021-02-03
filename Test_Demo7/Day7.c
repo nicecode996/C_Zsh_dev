@@ -116,10 +116,18 @@ int main() {
     printf("%d\n", b = (a = 32767, a + 1));
 }
 */
-
+/*
 int main() {
     int i, sum = 0;
     for (int i = 0; i < 6; i++) sum += i;
     printf("%d\n", sum);
 
 }
+*/
+/*
+void main() {
+    char a[] = "abcde";
+    a[2] = 0;
+    puts(a);
+}
+ */
