@@ -337,6 +337,123 @@ Test_Demo7/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo7.dir\build.make CMakeFiles/Test_Demo7.dir/build
 .PHONY : Test_Demo7/fast
 
+#=============================================================================
+# Target rules for targets named Test_Demo8
+
+# Build rule for target.
+Test_Demo8: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Test_Demo8
+.PHONY : Test_Demo8
+
+# fast build rule for target.
+Test_Demo8/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo8.dir\build.make CMakeFiles/Test_Demo8.dir/build
+.PHONY : Test_Demo8/fast
+
+#=============================================================================
+# Target rules for targets named Test_Demo9
+
+# Build rule for target.
+Test_Demo9: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Test_Demo9
+.PHONY : Test_Demo9
+
+# fast build rule for target.
+Test_Demo9/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo9.dir\build.make CMakeFiles/Test_Demo9.dir/build
+.PHONY : Test_Demo9/fast
+
+#=============================================================================
+# Target rules for targets named Test_Demo10
+
+# Build rule for target.
+Test_Demo10: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Test_Demo10
+.PHONY : Test_Demo10
+
+# fast build rule for target.
+Test_Demo10/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo10.dir\build.make CMakeFiles/Test_Demo10.dir/build
+.PHONY : Test_Demo10/fast
+
+#=============================================================================
+# Target rules for targets named Test_Demo11
+
+# Build rule for target.
+Test_Demo11: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Test_Demo11
+.PHONY : Test_Demo11
+
+# fast build rule for target.
+Test_Demo11/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo11.dir\build.make CMakeFiles/Test_Demo11.dir/build
+.PHONY : Test_Demo11/fast
+
+#=============================================================================
+# Target rules for targets named Test_Demo12
+
+# Build rule for target.
+Test_Demo12: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Test_Demo12
+.PHONY : Test_Demo12
+
+# fast build rule for target.
+Test_Demo12/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo12.dir\build.make CMakeFiles/Test_Demo12.dir/build
+.PHONY : Test_Demo12/fast
+
+#=============================================================================
+# Target rules for targets named Test_Demo13
+
+# Build rule for target.
+Test_Demo13: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Test_Demo13
+.PHONY : Test_Demo13
+
+# fast build rule for target.
+Test_Demo13/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo13.dir\build.make CMakeFiles/Test_Demo13.dir/build
+.PHONY : Test_Demo13/fast
+
+#=============================================================================
+# Target rules for targets named Test_Demo14
+
+# Build rule for target.
+Test_Demo14: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Test_Demo14
+.PHONY : Test_Demo14
+
+# fast build rule for target.
+Test_Demo14/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo14.dir\build.make CMakeFiles/Test_Demo14.dir/build
+.PHONY : Test_Demo14/fast
+
+#=============================================================================
+# Target rules for targets named Test_Demo15
+
+# Build rule for target.
+Test_Demo15: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Test_Demo15
+.PHONY : Test_Demo15
+
+# fast build rule for target.
+Test_Demo15/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo15.dir\build.make CMakeFiles/Test_Demo15.dir/build
+.PHONY : Test_Demo15/fast
+
+#=============================================================================
+# Target rules for targets named Test_Demo16
+
+# Build rule for target.
+Test_Demo16: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Test_Demo16
+.PHONY : Test_Demo16
+
+# fast build rule for target.
+Test_Demo16/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo16.dir\build.make CMakeFiles/Test_Demo16.dir/build
+.PHONY : Test_Demo16/fast
+
 Chapter1/main1.obj: Chapter1/main1.c.obj
 
 .PHONY : Chapter1/main1.obj
@@ -390,6 +507,195 @@ Test_Demo/Day1.s: Test_Demo/Day1.c.s
 Test_Demo/Day1.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo.dir\build.make CMakeFiles/Test_Demo.dir/Test_Demo/Day1.c.s
 .PHONY : Test_Demo/Day1.c.s
+
+Test_Demo10/Day10.obj: Test_Demo10/Day10.c.obj
+
+.PHONY : Test_Demo10/Day10.obj
+
+# target to build an object file
+Test_Demo10/Day10.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo10.dir\build.make CMakeFiles/Test_Demo10.dir/Test_Demo10/Day10.c.obj
+.PHONY : Test_Demo10/Day10.c.obj
+
+Test_Demo10/Day10.i: Test_Demo10/Day10.c.i
+
+.PHONY : Test_Demo10/Day10.i
+
+# target to preprocess a source file
+Test_Demo10/Day10.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo10.dir\build.make CMakeFiles/Test_Demo10.dir/Test_Demo10/Day10.c.i
+.PHONY : Test_Demo10/Day10.c.i
+
+Test_Demo10/Day10.s: Test_Demo10/Day10.c.s
+
+.PHONY : Test_Demo10/Day10.s
+
+# target to generate assembly for a file
+Test_Demo10/Day10.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo10.dir\build.make CMakeFiles/Test_Demo10.dir/Test_Demo10/Day10.c.s
+.PHONY : Test_Demo10/Day10.c.s
+
+Test_Demo11/Day11.obj: Test_Demo11/Day11.c.obj
+
+.PHONY : Test_Demo11/Day11.obj
+
+# target to build an object file
+Test_Demo11/Day11.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo11.dir\build.make CMakeFiles/Test_Demo11.dir/Test_Demo11/Day11.c.obj
+.PHONY : Test_Demo11/Day11.c.obj
+
+Test_Demo11/Day11.i: Test_Demo11/Day11.c.i
+
+.PHONY : Test_Demo11/Day11.i
+
+# target to preprocess a source file
+Test_Demo11/Day11.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo11.dir\build.make CMakeFiles/Test_Demo11.dir/Test_Demo11/Day11.c.i
+.PHONY : Test_Demo11/Day11.c.i
+
+Test_Demo11/Day11.s: Test_Demo11/Day11.c.s
+
+.PHONY : Test_Demo11/Day11.s
+
+# target to generate assembly for a file
+Test_Demo11/Day11.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo11.dir\build.make CMakeFiles/Test_Demo11.dir/Test_Demo11/Day11.c.s
+.PHONY : Test_Demo11/Day11.c.s
+
+Test_Demo12/Day12.obj: Test_Demo12/Day12.c.obj
+
+.PHONY : Test_Demo12/Day12.obj
+
+# target to build an object file
+Test_Demo12/Day12.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo12.dir\build.make CMakeFiles/Test_Demo12.dir/Test_Demo12/Day12.c.obj
+.PHONY : Test_Demo12/Day12.c.obj
+
+Test_Demo12/Day12.i: Test_Demo12/Day12.c.i
+
+.PHONY : Test_Demo12/Day12.i
+
+# target to preprocess a source file
+Test_Demo12/Day12.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo12.dir\build.make CMakeFiles/Test_Demo12.dir/Test_Demo12/Day12.c.i
+.PHONY : Test_Demo12/Day12.c.i
+
+Test_Demo12/Day12.s: Test_Demo12/Day12.c.s
+
+.PHONY : Test_Demo12/Day12.s
+
+# target to generate assembly for a file
+Test_Demo12/Day12.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo12.dir\build.make CMakeFiles/Test_Demo12.dir/Test_Demo12/Day12.c.s
+.PHONY : Test_Demo12/Day12.c.s
+
+Test_Demo13/Day13.obj: Test_Demo13/Day13.c.obj
+
+.PHONY : Test_Demo13/Day13.obj
+
+# target to build an object file
+Test_Demo13/Day13.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo13.dir\build.make CMakeFiles/Test_Demo13.dir/Test_Demo13/Day13.c.obj
+.PHONY : Test_Demo13/Day13.c.obj
+
+Test_Demo13/Day13.i: Test_Demo13/Day13.c.i
+
+.PHONY : Test_Demo13/Day13.i
+
+# target to preprocess a source file
+Test_Demo13/Day13.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo13.dir\build.make CMakeFiles/Test_Demo13.dir/Test_Demo13/Day13.c.i
+.PHONY : Test_Demo13/Day13.c.i
+
+Test_Demo13/Day13.s: Test_Demo13/Day13.c.s
+
+.PHONY : Test_Demo13/Day13.s
+
+# target to generate assembly for a file
+Test_Demo13/Day13.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo13.dir\build.make CMakeFiles/Test_Demo13.dir/Test_Demo13/Day13.c.s
+.PHONY : Test_Demo13/Day13.c.s
+
+Test_Demo14/Day14.obj: Test_Demo14/Day14.c.obj
+
+.PHONY : Test_Demo14/Day14.obj
+
+# target to build an object file
+Test_Demo14/Day14.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo14.dir\build.make CMakeFiles/Test_Demo14.dir/Test_Demo14/Day14.c.obj
+.PHONY : Test_Demo14/Day14.c.obj
+
+Test_Demo14/Day14.i: Test_Demo14/Day14.c.i
+
+.PHONY : Test_Demo14/Day14.i
+
+# target to preprocess a source file
+Test_Demo14/Day14.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo14.dir\build.make CMakeFiles/Test_Demo14.dir/Test_Demo14/Day14.c.i
+.PHONY : Test_Demo14/Day14.c.i
+
+Test_Demo14/Day14.s: Test_Demo14/Day14.c.s
+
+.PHONY : Test_Demo14/Day14.s
+
+# target to generate assembly for a file
+Test_Demo14/Day14.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo14.dir\build.make CMakeFiles/Test_Demo14.dir/Test_Demo14/Day14.c.s
+.PHONY : Test_Demo14/Day14.c.s
+
+Test_Demo15/Day15.obj: Test_Demo15/Day15.c.obj
+
+.PHONY : Test_Demo15/Day15.obj
+
+# target to build an object file
+Test_Demo15/Day15.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo15.dir\build.make CMakeFiles/Test_Demo15.dir/Test_Demo15/Day15.c.obj
+.PHONY : Test_Demo15/Day15.c.obj
+
+Test_Demo15/Day15.i: Test_Demo15/Day15.c.i
+
+.PHONY : Test_Demo15/Day15.i
+
+# target to preprocess a source file
+Test_Demo15/Day15.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo15.dir\build.make CMakeFiles/Test_Demo15.dir/Test_Demo15/Day15.c.i
+.PHONY : Test_Demo15/Day15.c.i
+
+Test_Demo15/Day15.s: Test_Demo15/Day15.c.s
+
+.PHONY : Test_Demo15/Day15.s
+
+# target to generate assembly for a file
+Test_Demo15/Day15.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo15.dir\build.make CMakeFiles/Test_Demo15.dir/Test_Demo15/Day15.c.s
+.PHONY : Test_Demo15/Day15.c.s
+
+Test_Demo16/Day16.obj: Test_Demo16/Day16.c.obj
+
+.PHONY : Test_Demo16/Day16.obj
+
+# target to build an object file
+Test_Demo16/Day16.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo16.dir\build.make CMakeFiles/Test_Demo16.dir/Test_Demo16/Day16.c.obj
+.PHONY : Test_Demo16/Day16.c.obj
+
+Test_Demo16/Day16.i: Test_Demo16/Day16.c.i
+
+.PHONY : Test_Demo16/Day16.i
+
+# target to preprocess a source file
+Test_Demo16/Day16.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo16.dir\build.make CMakeFiles/Test_Demo16.dir/Test_Demo16/Day16.c.i
+.PHONY : Test_Demo16/Day16.c.i
+
+Test_Demo16/Day16.s: Test_Demo16/Day16.c.s
+
+.PHONY : Test_Demo16/Day16.s
+
+# target to generate assembly for a file
+Test_Demo16/Day16.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo16.dir\build.make CMakeFiles/Test_Demo16.dir/Test_Demo16/Day16.c.s
+.PHONY : Test_Demo16/Day16.c.s
 
 Test_Demo2/Day2.obj: Test_Demo2/Day2.c.obj
 
@@ -552,6 +858,60 @@ Test_Demo7/Day7.s: Test_Demo7/Day7.c.s
 Test_Demo7/Day7.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo7.dir\build.make CMakeFiles/Test_Demo7.dir/Test_Demo7/Day7.c.s
 .PHONY : Test_Demo7/Day7.c.s
+
+Test_Demo8/Day8.obj: Test_Demo8/Day8.c.obj
+
+.PHONY : Test_Demo8/Day8.obj
+
+# target to build an object file
+Test_Demo8/Day8.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo8.dir\build.make CMakeFiles/Test_Demo8.dir/Test_Demo8/Day8.c.obj
+.PHONY : Test_Demo8/Day8.c.obj
+
+Test_Demo8/Day8.i: Test_Demo8/Day8.c.i
+
+.PHONY : Test_Demo8/Day8.i
+
+# target to preprocess a source file
+Test_Demo8/Day8.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo8.dir\build.make CMakeFiles/Test_Demo8.dir/Test_Demo8/Day8.c.i
+.PHONY : Test_Demo8/Day8.c.i
+
+Test_Demo8/Day8.s: Test_Demo8/Day8.c.s
+
+.PHONY : Test_Demo8/Day8.s
+
+# target to generate assembly for a file
+Test_Demo8/Day8.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo8.dir\build.make CMakeFiles/Test_Demo8.dir/Test_Demo8/Day8.c.s
+.PHONY : Test_Demo8/Day8.c.s
+
+Test_Demo9/Day9.obj: Test_Demo9/Day9.c.obj
+
+.PHONY : Test_Demo9/Day9.obj
+
+# target to build an object file
+Test_Demo9/Day9.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo9.dir\build.make CMakeFiles/Test_Demo9.dir/Test_Demo9/Day9.c.obj
+.PHONY : Test_Demo9/Day9.c.obj
+
+Test_Demo9/Day9.i: Test_Demo9/Day9.c.i
+
+.PHONY : Test_Demo9/Day9.i
+
+# target to preprocess a source file
+Test_Demo9/Day9.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo9.dir\build.make CMakeFiles/Test_Demo9.dir/Test_Demo9/Day9.c.i
+.PHONY : Test_Demo9/Day9.c.i
+
+Test_Demo9/Day9.s: Test_Demo9/Day9.c.s
+
+.PHONY : Test_Demo9/Day9.s
+
+# target to generate assembly for a file
+Test_Demo9/Day9.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Test_Demo9.dir\build.make CMakeFiles/Test_Demo9.dir/Test_Demo9/Day9.c.s
+.PHONY : Test_Demo9/Day9.c.s
 
 Zsb_Day1/Zsb_Day1.obj: Zsb_Day1/Zsb_Day1.c.obj
 
@@ -780,12 +1140,21 @@ help:
 	@echo ... C_Zsh_dev
 	@echo ... Chapter1
 	@echo ... Test_Demo
+	@echo ... Test_Demo10
+	@echo ... Test_Demo11
+	@echo ... Test_Demo12
+	@echo ... Test_Demo13
+	@echo ... Test_Demo14
+	@echo ... Test_Demo15
+	@echo ... Test_Demo16
 	@echo ... Test_Demo2
 	@echo ... Test_Demo3
 	@echo ... Test_Demo4
 	@echo ... Test_Demo5
 	@echo ... Test_Demo6
 	@echo ... Test_Demo7
+	@echo ... Test_Demo8
+	@echo ... Test_Demo9
 	@echo ... Zsb_Day1
 	@echo ... Zsb_Day2
 	@echo ... Zsb_Day3
@@ -799,6 +1168,27 @@ help:
 	@echo ... Test_Demo/Day1.obj
 	@echo ... Test_Demo/Day1.i
 	@echo ... Test_Demo/Day1.s
+	@echo ... Test_Demo10/Day10.obj
+	@echo ... Test_Demo10/Day10.i
+	@echo ... Test_Demo10/Day10.s
+	@echo ... Test_Demo11/Day11.obj
+	@echo ... Test_Demo11/Day11.i
+	@echo ... Test_Demo11/Day11.s
+	@echo ... Test_Demo12/Day12.obj
+	@echo ... Test_Demo12/Day12.i
+	@echo ... Test_Demo12/Day12.s
+	@echo ... Test_Demo13/Day13.obj
+	@echo ... Test_Demo13/Day13.i
+	@echo ... Test_Demo13/Day13.s
+	@echo ... Test_Demo14/Day14.obj
+	@echo ... Test_Demo14/Day14.i
+	@echo ... Test_Demo14/Day14.s
+	@echo ... Test_Demo15/Day15.obj
+	@echo ... Test_Demo15/Day15.i
+	@echo ... Test_Demo15/Day15.s
+	@echo ... Test_Demo16/Day16.obj
+	@echo ... Test_Demo16/Day16.i
+	@echo ... Test_Demo16/Day16.s
 	@echo ... Test_Demo2/Day2.obj
 	@echo ... Test_Demo2/Day2.i
 	@echo ... Test_Demo2/Day2.s
@@ -817,6 +1207,12 @@ help:
 	@echo ... Test_Demo7/Day7.obj
 	@echo ... Test_Demo7/Day7.i
 	@echo ... Test_Demo7/Day7.s
+	@echo ... Test_Demo8/Day8.obj
+	@echo ... Test_Demo8/Day8.i
+	@echo ... Test_Demo8/Day8.s
+	@echo ... Test_Demo9/Day9.obj
+	@echo ... Test_Demo9/Day9.i
+	@echo ... Test_Demo9/Day9.s
 	@echo ... Zsb_Day1/Zsb_Day1.obj
 	@echo ... Zsb_Day1/Zsb_Day1.i
 	@echo ... Zsb_Day1/Zsb_Day1.s

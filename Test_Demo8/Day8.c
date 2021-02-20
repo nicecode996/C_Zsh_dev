@@ -98,7 +98,7 @@ void main() {
     int a = 2, b = 5, c = 7;
     a = a > b ? a : b;
     a = a > c ? a : c;
-    printf("%d", a);
+    pri ntf("%d", a);
 }
  */
 

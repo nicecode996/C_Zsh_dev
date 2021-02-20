@@ -1,11 +1,42 @@
 C:\Users\maxu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.5981.166\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\SoftWare Test\Clion\C_Zsh_dev"
--- The C compiler identification is GNU 8.1.0
--- Check for working C compiler: D:/SoftWare Test/Clion/mingw64/bin/gcc.exe
--- Check for working C compiler: D:/SoftWare Test/Clion/mingw64/bin/gcc.exe - works
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Detecting C compile features
--- Detecting C compile features - done
 -- Configuring done
--- Generating done
--- Build files have been written to: D:/SoftWare Test/Clion/C_Zsh_dev/cmake-build-debug
+CMake Error at CMakeLists.txt:25 (add_executable):
+  Cannot find source file:
+
+    Test_Demo11/Day11.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:27 (add_executable):
+  Cannot find source file:
+
+    Test_Demo13/Day13.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:28 (add_executable):
+  Cannot find source file:
+
+    Test_Demo14/Day14.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+CMake Error at CMakeLists.txt:25 (add_executable):
+  No SOURCES given to target: Test_Demo11
+
+
+CMake Error at CMakeLists.txt:27 (add_executable):
+  No SOURCES given to target: Test_Demo13
+
+
+CMake Error at CMakeLists.txt:28 (add_executable):
+  No SOURCES given to target: Test_Demo14
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
